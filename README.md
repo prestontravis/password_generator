@@ -1,6 +1,12 @@
 # Description
 Website to generate a random password using characters such as lower case, upper case, numbers, & symbols. 
 
+## User Story
+AS AN employee with access to sensitive data
+I WANT to randomly generate a password that meets certain criteria
+SO THAT I can create a strong password that provides greater security
+
+## Acceptance Criteria
 GIVEN I need a new, secure password.  
 WHEN I click the button to generate a password.  
 THEN I am presented with a series of prompts for password criteria.  
@@ -18,7 +24,8 @@ WHEN the password is generated.
 THEN the password is either displayed in an alert or written to the page.  
 
 ## Screenshot
-![Screenshot 2023-01-22 at 10 49 31 PM](https://user-images.githubusercontent.com/119766277/213962822-80b81a42-b120-4193-afd6-9ee909f04fd1.png) 
+![password_generator_screenshot](https://user-images.githubusercontent.com/119766277/218360199-b295b856-299c-4acc-ab69-2beb2dd6a285.png)
+
   
 ## Application Link
 https://trayprey.github.io/password_generator/
