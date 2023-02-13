@@ -1,4 +1,4 @@
-## Description
+# Description
 Website to generate a random password using characters such as lower case, upper case, numbers, & symbols. 
 
 GIVEN I need a new, secure password.  
@@ -17,8 +17,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated.  
 THEN the password is either displayed in an alert or written to the page.  
 
-# Screenshot
+## Screenshot
 ![Screenshot 2023-01-22 at 10 49 31 PM](https://user-images.githubusercontent.com/119766277/213962822-80b81a42-b120-4193-afd6-9ee909f04fd1.png) 
   
-# Application Link
-https://trayprey.github.io/stunning-invention/
+## Application Link
+https://trayprey.github.io/password_generator/
