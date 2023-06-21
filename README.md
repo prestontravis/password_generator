@@ -28,4 +28,4 @@ THEN the password is either displayed in an alert or written to the page.
 
   
 ## Application Link
-https://trayprey.github.io/password_generator/
+https://prestontravis.github.io/password_generator/
